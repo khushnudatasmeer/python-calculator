@@ -37,12 +37,17 @@ Interactive and user-friendly GUI for a smooth experience.
    ```bash
    python calculator.py
 
-   
-### notes
-If tkinter is not installed, install it using:
-   -pip install tk
-Works on Windows, macOS, and Linux.  
 
+```
+ 
+### Notes
+
+If tkinter is not installed, install it using:
+```
+   -pip install tk
+```
+Works on Windows, macOS, and Linux.  
+```
 ## How to Use 
 Project Structure
    Python-Calculator/
