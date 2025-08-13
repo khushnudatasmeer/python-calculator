@@ -47,9 +47,15 @@ If tkinter is not installed, install it using:
    -pip install tk
 ```
 Works on Windows, macOS, and Linux.  
-```
+
 ## How to Use 
-Project Structure
+ 1. Click the buttons to enter numbers and operations.
+ 2. Press "=" to get the result.
+ 3. Press "C" to clear the input.
+
+ 
+### Project Structure
+   ```
    Python-Calculator/
 │
 ├─ calculator.py        # Main Python file
