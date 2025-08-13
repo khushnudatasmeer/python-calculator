@@ -31,11 +31,14 @@ Interactive and user-friendly GUI for a smooth experience.
    ```bash
    git clone https://github.com/YourUsername/Python-Calculator.git
 2. Navigate to the project folder:
+   ```bash
    cd Python-Calculator
 3.Run the Python file:
+   ```bash
    python calculator.py
+
    
-## Notes
+### notes
 If tkinter is not installed, install it using:
    -pip install tk
 Works on Windows, macOS, and Linux.  
