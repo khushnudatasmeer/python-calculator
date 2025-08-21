@@ -57,10 +57,13 @@ Interactive and user-friendly GUI for a smooth experience.
 │   └─ calculator.png
 └─ README.md
 ```
+---
+
 ##Author
 Khushnuda Tasmeer
 ```
 https://github.com/khushnudatasmeer
+```
 
 
    
