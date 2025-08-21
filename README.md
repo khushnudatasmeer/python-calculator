@@ -43,7 +43,7 @@ Interactive and user-friendly GUI for a smooth experience.
   ```bash
    python calculator.py
 ```
-##How to Use
+## How to Use
 1.Click the buttons to enter numbers and operations.
 2. Press = to get the result.
 3. Press C to clear the input.
