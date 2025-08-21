@@ -59,7 +59,7 @@ Interactive and user-friendly GUI for a smooth experience.
 ```
 ---
 
-##Author
+## Author
 Khushnuda Tasmeer
 ```
 https://github.com/khushnudatasmeer
