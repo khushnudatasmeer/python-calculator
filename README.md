@@ -44,9 +44,11 @@ Interactive and user-friendly GUI for a smooth experience.
    python calculator.py
 ```
 ## How to Use
-1.Click the buttons to enter numbers and operations.
-2. Press = to get the result.
-3. Press C to clear the input.
+```
+- Click the buttons to enter numbers and operations.
+- Press = to get the result.
+- Press C to clear the input.
+```
 
 ## Project Structure
 ```
